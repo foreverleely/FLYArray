@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "FLYArray is a category for NSArray to get out of order Array"
+  s.description  = "make a Array out of order"
 
   s.homepage     = "https://github.com/foreverleely/FLYArray"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
